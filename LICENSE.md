@@ -1,4 +1,4 @@
-# 
+# 开源 low cap gem sniper bot 脚本 Mac OS版 | 顶级 low cap gem sniper bot 脚本 PC Windows版。集成 市场分析 和 Gas拍卖，跨平台性能最大化。
 
 
 
